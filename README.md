@@ -29,9 +29,7 @@
 > "Building the future where Electronics, Intelligence, and Innovation work together."
 <div align="center">
 
-### 👀 Visitor Count
 
-![](https://komarev.com/ghpvc/?username=Cocomln&color=blueviolet&style=for-the-badge)
 
 ### ⭐ Thanks for visiting my profile!
 
