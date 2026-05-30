@@ -1,106 +1,38 @@
-<div align="center">
-
-# Hey there 👋, I'm Cocomln
-
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=00C8FF&center=true&vCenter=true&width=600&lines=AI%2FML+Enthusiast;Full-Stack+Developer;Prompt+Engineer;Open+Source+Learner;Building+the+Future+with+Code" alt="Typing SVG" />
-
-</div>
-
----
-
 ## 🚀 About Me
 
-💡 Passionate about transforming ideas into intelligent solutions.
+🎓 Electronics & Communication Engineering (ECE) Student
 
-🧠 Exploring the intersection of **Artificial Intelligence, Machine Learning, and Software Development**.
+🤖 Passionate about Robotics, Embedded Systems, and Artificial Intelligence.
 
-⚡ Building projects with modern web technologies and AI-powered workflows.
+🔧 I enjoy building smart systems using Arduino, ESP32, sensors, and IoT technologies.
 
-🎯 Interested in:
-- Artificial Intelligence & Machine Learning
-- Full-Stack Web Development
-- Prompt Engineering
-- Automation & Productivity Tools
-- Open Source Contributions
+💡 Fascinated by the fusion of hardware and software — from microcontrollers and circuit design to AI-powered applications.
 
-📚 Constantly learning, experimenting, and creating.
+🧠 Exploring Machine Learning, Prompt Engineering, Computer Vision, and Intelligent Automation.
 
-> "Code is not just instructions for machines; it's a way to bring imagination to life."
+🌐 Full-Stack Developer who enjoys creating modern web applications and integrating them with real-world hardware solutions.
 
----
+⚙️ Hands-on experience with:
+- Arduino Development
+- ESP32 Programming
+- IoT Projects
+- Tinkercad Circuit Simulation
+- Sensor Integration
+- Embedded Systems
+- AI/ML Applications
+- Web Development
 
-## 🛠️ Tech Stack
+🔬 Currently learning:
+- Robotics & Autonomous Systems
+- Edge AI
+- Computer Vision
+- AI Agents & Multi-Agent Systems
+- Industrial IoT
 
-### Languages
-![C](https://skillicons.dev/icons?i=c)
-![C++](https://skillicons.dev/icons?i=cpp)
-![JavaScript](https://skillicons.dev/icons?i=js)
-![HTML](https://skillicons.dev/icons?i=html)
-![CSS](https://skillicons.dev/icons?i=css)
+🎯 Goal:
+To build intelligent systems that bridge the gap between Electronics, AI, and Real-World Automation.
 
-### Frontend
-![React](https://skillicons.dev/icons?i=react)
-
-### Backend
-![NodeJS](https://skillicons.dev/icons?i=nodejs)
-
-### AI & Tools
-![Git](https://skillicons.dev/icons?i=git)
-![GitHub](https://skillicons.dev/icons?i=github)
-![VS Code](https://skillicons.dev/icons?i=vscode)
-
-- AI/ML
-- Prompt Engineering
-- Excel & Data Analysis
-
----
-
-## 📊 GitHub Stats
-
-![](https://github-readme-stats.vercel.app/api?username=Cocomln&show_icons=true&theme=tokyonight)
-
-![](https://github-readme-streak-stats.herokuapp.com/?user=Cocomln&theme=tokyonight)
-
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Cocomln&layout=compact&theme=tokyonight)
-
----
-
-## 🧩 Current Focus
-
-🔹 Building AI-powered applications
-
-🔹 Learning advanced Machine Learning concepts
-
-🔹 Improving Full-Stack Development skills
-
-🔹 Exploring autonomous AI systems and multi-agent workflows
-
----
-
-## 🌟 Fun Facts
-
-🚀 I enjoy turning complex problems into elegant solutions.
-
-🤖 Fascinated by how AI can augment human creativity.
-
-🎮 Love experimenting with new technologies and frameworks.
-
-📈 Always optimizing, always learning.
-
----
-
-## 📫 Connect With Me
-
-Feel free to connect and collaborate on exciting projects.
-
-<p align="left">
-<a href="https://github.com/Cocomln">
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
-</a>
-</p>
-
----
-
+> "The future belongs to those who can combine hardware, software, and intelligence into a single solution."
 <div align="center">
 
 ### 👀 Visitor Count
