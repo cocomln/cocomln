@@ -1,38 +1,32 @@
-## 🚀 About Me
+##  About Me
 
-🎓 Electronics & Communication Engineering (ECE) Student
+- Electronics & Communication Engineering (ECE) Student
 
-🤖 Passionate about Robotics, Embedded Systems, and Artificial Intelligence.
+- Passionate about Robotics, Embedded Systems, IoT, and Artificial Intelligence.
 
-🔧 I enjoy building smart systems using Arduino, ESP32, sensors, and IoT technologies.
+- I love building intelligent systems that combine hardware and software—from Arduino-based projects to AI-powered applications.
 
-💡 Fascinated by the fusion of hardware and software — from microcontrollers and circuit design to AI-powered applications.
+- Experienced with Arduino, ESP32, sensor integration, circuit simulation, and IoT prototyping.
 
-🧠 Exploring Machine Learning, Prompt Engineering, Computer Vision, and Intelligent Automation.
+- Exploring the intersection of AI/ML, Prompt Engineering, Robotics, Computer Vision, and Automation.
 
-🌐 Full-Stack Developer who enjoys creating modern web applications and integrating them with real-world hardware solutions.
+- Full-Stack Developer who enjoys creating modern web applications and connecting them with real-world hardware solutions.
 
-⚙️ Hands-on experience with:
-- Arduino Development
-- ESP32 Programming
-- IoT Projects
-- Tinkercad Circuit Simulation
-- Sensor Integration
-- Embedded Systems
-- AI/ML Applications
-- Web Development
+- Skilled in transforming ideas into practical projects using both electronics and software technologies.
 
-🔬 Currently learning:
+🎯 Interested in:
 - Robotics & Autonomous Systems
-- Edge AI
+- Embedded Systems
+- Internet of Things (IoT)
+- Artificial Intelligence & Machine Learning
+- Prompt Engineering
+- Full-Stack Web Development
 - Computer Vision
-- AI Agents & Multi-Agent Systems
-- Industrial IoT
+- Open Source Development
 
-🎯 Goal:
-To build intelligent systems that bridge the gap between Electronics, AI, and Real-World Automation.
+📚 Constantly learning, building, and experimenting with emerging technologies.
 
-> "The future belongs to those who can combine hardware, software, and intelligence into a single solution."
+> "Building the future where Electronics, Intelligence, and Innovation work together."
 <div align="center">
 
 ### 👀 Visitor Count
